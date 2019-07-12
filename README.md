@@ -9,5 +9,6 @@ you can find the detailes and the constant in the python code.
 
 
  | ![alt text][2neuron_python] | 
- | --- |
- |:you can find the detailes and the constant in the python code.:|
+ |:----:|
+ |you can find the detailes and the constant in the python code.|
+
