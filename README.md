@@ -1,5 +1,6 @@
 # two connected neurons
 
+this is an implimentation of connecting two neurons with a dynamic synapse.
 
 ![alt text][2neuron_python]
 
